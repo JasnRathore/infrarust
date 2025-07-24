@@ -1,0 +1,10 @@
+[package]
+name = "infra"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+once_cell = "1.21.3"
+regex = "1.11.1"
+rustyline = "16.0.0"
+shell-words = "1.1.0"
